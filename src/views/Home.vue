@@ -9,7 +9,7 @@
 import sourceData from '@/data.json';
 import ThreadList from '../components/ThreadList.vue';
 
-console.info(sourceData.threads);
+console.info(sourceData);
 
 export default {
   components: {
